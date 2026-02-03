@@ -1,0 +1,817 @@
+{
+  "stats": {
+    "total_posts": 878,
+    "avg_score": 1240.4829157175398,
+    "avg_comments": 955.0990888382688,
+    "avg_sentiment": 0.08349179954441914,
+    "positive_percentage": 32.23234624145786,
+    "negative_percentage": 16.287015945330296,
+    "neutral_percentage": 51.48063781321185
+  },
+  "sentiment_distribution": {
+    "neutral": 452,
+    "positive": 283,
+    "negative": 143
+  },
+  "posts_timeline": [
+    {
+      "date": "2025-02-22",
+      "count": 10
+    },
+    {
+      "date": "2025-02-23",
+      "count": 16
+    },
+    {
+      "date": "2025-02-24",
+      "count": 30
+    },
+    {
+      "date": "2025-02-25",
+      "count": 38
+    },
+    {
+      "date": "2025-02-26",
+      "count": 62
+    },
+    {
+      "date": "2025-02-27",
+      "count": 42
+    },
+    {
+      "date": "2025-02-28",
+      "count": 66
+    },
+    {
+      "date": "2025-03-01",
+      "count": 24
+    },
+    {
+      "date": "2025-03-02",
+      "count": 12
+    },
+    {
+      "date": "2025-03-03",
+      "count": 31
+    },
+    {
+      "date": "2025-03-04",
+      "count": 75
+    },
+    {
+      "date": "2025-03-05",
+      "count": 48
+    },
+    {
+      "date": "2025-03-06",
+      "count": 29
+    },
+    {
+      "date": "2025-03-07",
+      "count": 31
+    },
+    {
+      "date": "2025-03-08",
+      "count": 23
+    },
+    {
+      "date": "2025-03-09",
+      "count": 4
+    },
+    {
+      "date": "2025-03-10",
+      "count": 31
+    },
+    {
+      "date": "2025-03-11",
+      "count": 33
+    },
+    {
+      "date": "2025-03-12",
+      "count": 28
+    },
+    {
+      "date": "2025-03-13",
+      "count": 34
+    },
+    {
+      "date": "2025-03-14",
+      "count": 18
+    },
+    {
+      "date": "2025-03-15",
+      "count": 23
+    },
+    {
+      "date": "2025-03-16",
+      "count": 8
+    },
+    {
+      "date": "2025-03-17",
+      "count": 18
+    },
+    {
+      "date": "2025-03-18",
+      "count": 33
+    },
+    {
+      "date": "2025-03-19",
+      "count": 24
+    },
+    {
+      "date": "2025-03-20",
+      "count": 39
+    },
+    {
+      "date": "2025-03-21",
+      "count": 34
+    },
+    {
+      "date": "2025-03-22",
+      "count": 14
+    }
+  ],
+  "sentiment_timeline": [
+    {
+      "date": "2025-02-22",
+      "sentiment": "negative",
+      "count": 2
+    },
+    {
+      "date": "2025-02-22",
+      "sentiment": "neutral",
+      "count": 6
+    },
+    {
+      "date": "2025-02-22",
+      "sentiment": "positive",
+      "count": 2
+    },
+    {
+      "date": "2025-02-23",
+      "sentiment": "negative",
+      "count": 3
+    },
+    {
+      "date": "2025-02-23",
+      "sentiment": "neutral",
+      "count": 6
+    },
+    {
+      "date": "2025-02-23",
+      "sentiment": "positive",
+      "count": 7
+    },
+    {
+      "date": "2025-02-24",
+      "sentiment": "negative",
+      "count": 6
+    },
+    {
+      "date": "2025-02-24",
+      "sentiment": "neutral",
+      "count": 15
+    },
+    {
+      "date": "2025-02-24",
+      "sentiment": "positive",
+      "count": 9
+    },
+    {
+      "date": "2025-02-25",
+      "sentiment": "negative",
+      "count": 6
+    },
+    {
+      "date": "2025-02-25",
+      "sentiment": "neutral",
+      "count": 20
+    },
+    {
+      "date": "2025-02-25",
+      "sentiment": "positive",
+      "count": 12
+    },
+    {
+      "date": "2025-02-26",
+      "sentiment": "negative",
+      "count": 8
+    },
+    {
+      "date": "2025-02-26",
+      "sentiment": "neutral",
+      "count": 33
+    },
+    {
+      "date": "2025-02-26",
+      "sentiment": "positive",
+      "count": 21
+    },
+    {
+      "date": "2025-02-27",
+      "sentiment": "negative",
+      "count": 5
+    },
+    {
+      "date": "2025-02-27",
+      "sentiment": "neutral",
+      "count": 25
+    },
+    {
+      "date": "2025-02-27",
+      "sentiment": "positive",
+      "count": 12
+    },
+    {
+      "date": "2025-02-28",
+      "sentiment": "negative",
+      "count": 13
+    },
+    {
+      "date": "2025-02-28",
+      "sentiment": "neutral",
+      "count": 34
+    },
+    {
+      "date": "2025-02-28",
+      "sentiment": "positive",
+      "count": 19
+    },
+    {
+      "date": "2025-03-01",
+      "sentiment": "negative",
+      "count": 2
+    },
+    {
+      "date": "2025-03-01",
+      "sentiment": "neutral",
+      "count": 10
+    },
+    {
+      "date": "2025-03-01",
+      "sentiment": "positive",
+      "count": 12
+    },
+    {
+      "date": "2025-03-02",
+      "sentiment": "negative",
+      "count": 3
+    },
+    {
+      "date": "2025-03-02",
+      "sentiment": "neutral",
+      "count": 7
+    },
+    {
+      "date": "2025-03-02",
+      "sentiment": "positive",
+      "count": 2
+    },
+    {
+      "date": "2025-03-03",
+      "sentiment": "negative",
+      "count": 5
+    },
+    {
+      "date": "2025-03-03",
+      "sentiment": "neutral",
+      "count": 16
+    },
+    {
+      "date": "2025-03-03",
+      "sentiment": "positive",
+      "count": 10
+    },
+    {
+      "date": "2025-03-04",
+      "sentiment": "negative",
+      "count": 13
+    },
+    {
+      "date": "2025-03-04",
+      "sentiment": "neutral",
+      "count": 34
+    },
+    {
+      "date": "2025-03-04",
+      "sentiment": "positive",
+      "count": 28
+    },
+    {
+      "date": "2025-03-05",
+      "sentiment": "negative",
+      "count": 4
+    },
+    {
+      "date": "2025-03-05",
+      "sentiment": "neutral",
+      "count": 28
+    },
+    {
+      "date": "2025-03-05",
+      "sentiment": "positive",
+      "count": 16
+    },
+    {
+      "date": "2025-03-06",
+      "sentiment": "negative",
+      "count": 4
+    },
+    {
+      "date": "2025-03-06",
+      "sentiment": "neutral",
+      "count": 17
+    },
+    {
+      "date": "2025-03-06",
+      "sentiment": "positive",
+      "count": 8
+    },
+    {
+      "date": "2025-03-07",
+      "sentiment": "negative",
+      "count": 3
+    },
+    {
+      "date": "2025-03-07",
+      "sentiment": "neutral",
+      "count": 19
+    },
+    {
+      "date": "2025-03-07",
+      "sentiment": "positive",
+      "count": 9
+    },
+    {
+      "date": "2025-03-08",
+      "sentiment": "negative",
+      "count": 6
+    },
+    {
+      "date": "2025-03-08",
+      "sentiment": "neutral",
+      "count": 12
+    },
+    {
+      "date": "2025-03-08",
+      "sentiment": "positive",
+      "count": 5
+    },
+    {
+      "date": "2025-03-09",
+      "sentiment": "negative",
+      "count": 1
+    },
+    {
+      "date": "2025-03-09",
+      "sentiment": "neutral",
+      "count": 2
+    },
+    {
+      "date": "2025-03-09",
+      "sentiment": "positive",
+      "count": 1
+    },
+    {
+      "date": "2025-03-10",
+      "sentiment": "negative",
+      "count": 5
+    },
+    {
+      "date": "2025-03-10",
+      "sentiment": "neutral",
+      "count": 22
+    },
+    {
+      "date": "2025-03-10",
+      "sentiment": "positive",
+      "count": 4
+    },
+    {
+      "date": "2025-03-11",
+      "sentiment": "neutral",
+      "count": 13
+    },
+    {
+      "date": "2025-03-11",
+      "sentiment": "positive",
+      "count": 20
+    },
+    {
+      "date": "2025-03-12",
+      "sentiment": "negative",
+      "count": 2
+    },
+    {
+      "date": "2025-03-12",
+      "sentiment": "neutral",
+      "count": 15
+    },
+    {
+      "date": "2025-03-12",
+      "sentiment": "positive",
+      "count": 11
+    },
+    {
+      "date": "2025-03-13",
+      "sentiment": "negative",
+      "count": 6
+    },
+    {
+      "date": "2025-03-13",
+      "sentiment": "neutral",
+      "count": 17
+    },
+    {
+      "date": "2025-03-13",
+      "sentiment": "positive",
+      "count": 11
+    },
+    {
+      "date": "2025-03-14",
+      "sentiment": "negative",
+      "count": 3
+    },
+    {
+      "date": "2025-03-14",
+      "sentiment": "neutral",
+      "count": 9
+    },
+    {
+      "date": "2025-03-14",
+      "sentiment": "positive",
+      "count": 6
+    },
+    {
+      "date": "2025-03-15",
+      "sentiment": "negative",
+      "count": 7
+    },
+    {
+      "date": "2025-03-15",
+      "sentiment": "neutral",
+      "count": 11
+    },
+    {
+      "date": "2025-03-15",
+      "sentiment": "positive",
+      "count": 5
+    },
+    {
+      "date": "2025-03-16",
+      "sentiment": "neutral",
+      "count": 3
+    },
+    {
+      "date": "2025-03-16",
+      "sentiment": "positive",
+      "count": 5
+    },
+    {
+      "date": "2025-03-17",
+      "sentiment": "negative",
+      "count": 6
+    },
+    {
+      "date": "2025-03-17",
+      "sentiment": "neutral",
+      "count": 7
+    },
+    {
+      "date": "2025-03-17",
+      "sentiment": "positive",
+      "count": 5
+    },
+    {
+      "date": "2025-03-18",
+      "sentiment": "negative",
+      "count": 4
+    },
+    {
+      "date": "2025-03-18",
+      "sentiment": "neutral",
+      "count": 14
+    },
+    {
+      "date": "2025-03-18",
+      "sentiment": "positive",
+      "count": 15
+    },
+    {
+      "date": "2025-03-19",
+      "sentiment": "negative",
+      "count": 1
+    },
+    {
+      "date": "2025-03-19",
+      "sentiment": "neutral",
+      "count": 17
+    },
+    {
+      "date": "2025-03-19",
+      "sentiment": "positive",
+      "count": 6
+    },
+    {
+      "date": "2025-03-20",
+      "sentiment": "negative",
+      "count": 12
+    },
+    {
+      "date": "2025-03-20",
+      "sentiment": "neutral",
+      "count": 18
+    },
+    {
+      "date": "2025-03-20",
+      "sentiment": "positive",
+      "count": 9
+    },
+    {
+      "date": "2025-03-21",
+      "sentiment": "negative",
+      "count": 9
+    },
+    {
+      "date": "2025-03-21",
+      "sentiment": "neutral",
+      "count": 17
+    },
+    {
+      "date": "2025-03-21",
+      "sentiment": "positive",
+      "count": 8
+    },
+    {
+      "date": "2025-03-22",
+      "sentiment": "negative",
+      "count": 4
+    },
+    {
+      "date": "2025-03-22",
+      "sentiment": "neutral",
+      "count": 5
+    },
+    {
+      "date": "2025-03-22",
+      "sentiment": "positive",
+      "count": 5
+    }
+  ],
+  "score_distribution": {
+    "0-100": 329,
+    "100-500": 282,
+    "500-1K": 83,
+    "1K-5K": 117,
+    "5K+": 47
+  },
+  "top_positive_posts": [
+    {
+      "title": "Its alive",
+      "score": 30691,
+      "sentiment_score": 0.3818,
+      "created": "2025-03-12 23:26:28"
+    },
+    {
+      "title": "THERE'S TOO MUCH WINNING, WHERE IS JEROME???",
+      "score": 20708,
+      "sentiment_score": 0.6046,
+      "created": "2025-03-04 07:53:30"
+    },
+    {
+      "title": "BREAKING: President Trump signs executive order officially creating a Bitc0in Strategic Reserve.",
+      "score": 13942,
+      "sentiment_score": 0.296,
+      "created": "2025-03-07 06:09:09"
+    },
+    {
+      "title": "Pretty much..",
+      "score": 8016,
+      "sentiment_score": 0.4939,
+      "created": "2025-03-05 00:13:59"
+    },
+    {
+      "title": "You never know when a recession is coming\u2026 but there will be signs.",
+      "score": 7982,
+      "sentiment_score": 0.1695,
+      "created": "2025-03-17 22:05:27"
+    },
+    {
+      "title": "$AMD got me good \ud83d\ude2d",
+      "score": 7555,
+      "sentiment_score": 0.4404,
+      "created": "2025-02-28 06:26:46"
+    },
+    {
+      "title": "$TSLA Puts: $800k in realized gains since Feb 19th. $274k to $1.39MM in less than a year",
+      "score": 6755,
+      "sentiment_score": 0.34,
+      "created": "2025-03-11 04:43:18"
+    },
+    {
+      "title": "Uncle Warren never misses",
+      "score": 6521,
+      "sentiment_score": 0.1695,
+      "created": "2025-03-13 11:26:00"
+    },
+    {
+      "title": "Reddit stock falls more than 20% since last week's earnings report as 6-month rally eases",
+      "score": 5663,
+      "sentiment_score": 0.3182,
+      "created": "2025-02-23 23:38:33"
+    },
+    {
+      "title": "The Hooters Index seems like a solid way to judge the economy. Thoughts?",
+      "score": 5084,
+      "sentiment_score": 0.4767,
+      "created": "2025-03-16 01:01:37"
+    }
+  ],
+  "top_negative_posts": [
+    {
+      "title": "[Fortune] Elon Musk's Tesla reportedly halts Cybertruck deliveries as owners complain of metal sides falling off",
+      "score": 24543,
+      "sentiment_score": -0.4767,
+      "created": "2025-03-15 03:38:28"
+    },
+    {
+      "title": "NVDA earnings. What's the risk? 50/50",
+      "score": 15912,
+      "sentiment_score": -0.2732,
+      "created": "2025-02-24 22:40:32"
+    },
+    {
+      "title": "Trump says he's lifting tariffs on most goods from Mexico for 4 weeks amid economic fears from trade war",
+      "score": 13212,
+      "sentiment_score": -0.7717,
+      "created": "2025-03-06 22:24:58"
+    },
+    {
+      "title": "Freddie Mac CEO Fired.",
+      "score": 10557,
+      "sentiment_score": -0.5574,
+      "created": "2025-03-21 20:35:49"
+    },
+    {
+      "title": "Atlanta Fed GDPNow's real GDP estimate for the US in Q1 is now -2.8%, the worst since COVID",
+      "score": 8393,
+      "sentiment_score": -0.6249,
+      "created": "2025-03-04 00:03:50"
+    },
+    {
+      "title": "5 Stages Of Grief",
+      "score": 8302,
+      "sentiment_score": -0.4939,
+      "created": "2025-03-13 20:02:26"
+    },
+    {
+      "title": "Monday = depression = recession indicator",
+      "score": 6262,
+      "sentiment_score": -0.7579,
+      "created": "2025-03-17 20:46:22"
+    },
+    {
+      "title": "The struggle is real",
+      "score": 5323,
+      "sentiment_score": -0.3182,
+      "created": "2025-03-17 10:06:50"
+    },
+    {
+      "title": "South Korea Says No to Bitcoin in Foreign Reserve",
+      "score": 4761,
+      "sentiment_score": -0.296,
+      "created": "2025-03-17 11:42:47"
+    },
+    {
+      "title": "TSLA IS PLAYING WITH FIRE",
+      "score": 4741,
+      "sentiment_score": -0.1531,
+      "created": "2025-03-13 01:53:02"
+    }
+  ],
+  "top_tickers": [
+    {
+      "ticker": "PARA",
+      "count": 7
+    },
+    {
+      "ticker": "HIMS",
+      "count": 6
+    },
+    {
+      "ticker": "NVDA",
+      "count": 5
+    },
+    {
+      "ticker": "TSLA",
+      "count": 5
+    },
+    {
+      "ticker": "MSTR",
+      "count": 5
+    },
+    {
+      "ticker": "BABA",
+      "count": 4
+    },
+    {
+      "ticker": "DRI",
+      "count": 4
+    },
+    {
+      "ticker": "FLOW",
+      "count": 4
+    },
+    {
+      "ticker": "AMD",
+      "count": 3
+    },
+    {
+      "ticker": "SPY",
+      "count": 3
+    },
+    {
+      "ticker": "MRNA",
+      "count": 3
+    },
+    {
+      "ticker": "CSL",
+      "count": 3
+    },
+    {
+      "ticker": "GRND",
+      "count": 3
+    },
+    {
+      "ticker": "DNUT",
+      "count": 3
+    },
+    {
+      "ticker": "CNBS",
+      "count": 3
+    },
+    {
+      "ticker": "RIVN",
+      "count": 2
+    },
+    {
+      "ticker": "GOOG",
+      "count": 2
+    },
+    {
+      "ticker": "GOOGL",
+      "count": 2
+    },
+    {
+      "ticker": "RDDT",
+      "count": 2
+    },
+    {
+      "ticker": "HOOD",
+      "count": 2
+    }
+  ],
+  "sentiment_engagement": [
+    {
+      "sentiment": "negative",
+      "score": 1315.4895104895104,
+      "comms_num": 202.47552447552448
+    },
+    {
+      "sentiment": "neutral",
+      "score": 1503.1570796460178,
+      "comms_num": 1727.2654867256638
+    },
+    {
+      "sentiment": "positive",
+      "score": 783.0459363957597,
+      "comms_num": 102.11660777385158
+    }
+  ],
+  "model_results": [
+    {
+      "model": "XGBoost",
+      "accuracy": 0.483
+    },
+    {
+      "model": "LSTM",
+      "accuracy": 0.4773
+    },
+    {
+      "model": "FinBERT",
+      "accuracy": 0.4716
+    },
+    {
+      "model": "Random Forest",
+      "accuracy": 0.45
+    },
+    {
+      "model": "Logistic Regression",
+      "accuracy": 0.43
+    },
+    {
+      "model": "SVM",
+      "accuracy": 0.41
+    }
+  ]
+}

@@ -1,1 +1,8 @@
 .qodo
+.next/
+node_modules/
+out/
+*.log
+.DS_Store
+.env*.local
+.vercel
