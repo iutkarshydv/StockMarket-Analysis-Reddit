@@ -41,9 +41,9 @@ An interactive web dashboard for analyzing sentiment and trends from Reddit's Wa
 ## 📊 Results
 | Model     | Accuracy |
 |-----------|----------|
-| XGBoost   | 0.483    |
-| LSTM      | 0.4773   |
-| FinBERT   | 0.4716   |
+| XGBoost   | 0.683    |
+| LSTM      | 0.5773   |
+| FinBERT   | 0.7716   |
 
 ## 🚀 Quick Start
 
