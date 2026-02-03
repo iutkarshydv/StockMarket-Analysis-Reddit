@@ -1,18 +1,9 @@
 import { ThumbsUp, ThumbsDown } from 'lucide-react'
+import type { Post } from '@/types/dashboard'
 
 interface TopPostsProps {
-  positive: Array<{
-    title: string
-    score: number
-    sentiment_score: number
-    created: string
-  }>
-  negative: Array<{
-    title: string
-    score: number
-    sentiment_score: number
-    created: string
-  }>
+  positive: Post[]
+  negative: Post[]
 }
 
 export default function TopPosts({ positive, negative }: TopPostsProps) {

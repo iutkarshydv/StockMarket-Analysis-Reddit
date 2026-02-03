@@ -1,15 +1,8 @@
 import { TrendingUp, TrendingDown, MessageCircle, FileText } from 'lucide-react'
+import type { Stats } from '@/types/dashboard'
 
 interface StatsCardsProps {
-  stats: {
-    total_posts: number
-    avg_score: number
-    avg_comments: number
-    avg_sentiment: number
-    positive_percentage: number
-    negative_percentage: number
-    neutral_percentage: number
-  }
+  stats: Stats
 }
 
 export default function StatsCards({ stats }: StatsCardsProps) {

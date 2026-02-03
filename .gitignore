@@ -6,3 +6,10 @@ out/
 .DS_Store
 .env*.local
 .vercel
+.venv/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+

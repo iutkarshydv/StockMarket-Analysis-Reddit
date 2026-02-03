@@ -1,11 +1,9 @@
 import { BarChart, Bar, XAxis, YAxis, CartesianGrid, Tooltip, ResponsiveContainer } from 'recharts'
 import { DollarSign } from 'lucide-react'
+import type { Ticker } from '@/types/dashboard'
 
 interface TickersChartProps {
-  data: Array<{
-    ticker: string
-    count: number
-  }>
+  data: Ticker[]
 }
 
 export default function TickersChart({ data }: TickersChartProps) {

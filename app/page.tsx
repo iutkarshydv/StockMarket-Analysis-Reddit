@@ -1,16 +1,17 @@
 'use client'
 
 import { useEffect, useState } from 'react'
-import { TrendingUp, MessageSquare, BarChart3, Brain } from 'lucide-react'
+import { TrendingUp, MessageSquare } from 'lucide-react'
 import StatsCards from '@/components/StatsCards'
 import SentimentChart from '@/components/SentimentChart'
 import TimelineChart from '@/components/TimelineChart'
 import TickersChart from '@/components/TickersChart'
 import ModelResults from '@/components/ModelResults'
 import TopPosts from '@/components/TopPosts'
+import type { DashboardData } from '@/types/dashboard'
 
 export default function Home() {
-  const [data, setData] = useState<any>(null)
+  const [data, setData] = useState<DashboardData | null>(null)
   const [loading, setLoading] = useState(true)
 
   useEffect(() => {

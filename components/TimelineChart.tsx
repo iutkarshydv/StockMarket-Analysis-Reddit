@@ -1,8 +1,9 @@
 import { LineChart, Line, BarChart, Bar, XAxis, YAxis, CartesianGrid, Tooltip, Legend, ResponsiveContainer } from 'recharts'
 import { TrendingUp } from 'lucide-react'
+import type { PostTimeline, SentimentTimeline } from '@/types/dashboard'
 
 interface TimelineChartProps {
-  data: any[]
+  data: PostTimeline[] | SentimentTimeline[]
   multiSeries?: boolean
 }
 
@@ -10,7 +11,8 @@ export default function TimelineChart({ data, multiSeries = false }: TimelineCha
   if (multiSeries) {
     // Transform data for multi-series chart
     const sentimentByDate: any = {}
-    data.forEach(item => {
+    const sentimentData = data as SentimentTimeline[]
+    sentimentData.forEach(item => {
       if (!sentimentByDate[item.date]) {
         sentimentByDate[item.date] = { date: item.date, positive: 0, negative: 0, neutral: 0 }
       }

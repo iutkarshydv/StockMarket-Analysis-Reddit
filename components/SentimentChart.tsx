@@ -1,12 +1,9 @@
 import { PieChart, Pie, Cell, ResponsiveContainer, Legend, Tooltip } from 'recharts'
 import { BarChart3 } from 'lucide-react'
+import type { SentimentDistribution } from '@/types/dashboard'
 
 interface SentimentChartProps {
-  data: {
-    positive?: number
-    negative?: number
-    neutral?: number
-  }
+  data: SentimentDistribution
 }
 
 const COLORS = {

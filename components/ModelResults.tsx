@@ -1,11 +1,9 @@
 import { BarChart, Bar, XAxis, YAxis, CartesianGrid, Tooltip, Legend, ResponsiveContainer } from 'recharts'
 import { Brain } from 'lucide-react'
+import type { ModelResult } from '@/types/dashboard'
 
 interface ModelResultsProps {
-  data: Array<{
-    model: string
-    accuracy: number
-  }>
+  data: ModelResult[]
 }
 
 export default function ModelResults({ data }: ModelResultsProps) {
