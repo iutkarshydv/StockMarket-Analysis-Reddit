@@ -13,7 +13,7 @@ except:
     pass
 
 # Load data
-df = pd.read_csv("wsb_posts.csv")
+df = pd.read_csv("data/wsb_posts.csv")
 
 # Initialize VADER
 sia = SentimentIntensityAnalyzer()
